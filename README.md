@@ -28,12 +28,6 @@ Start the server
   npm run dev
 ```
 
-```
-    Server is Listening on:
-    http://localhost:3000
-    http://192.168.8.197:3000
-```
-
 # build
 
 You Can build The Project For All platforms
