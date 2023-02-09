@@ -2,23 +2,18 @@
 
 Web Pad is Web Based Mouse That Allows You To Send Mouse Movements and Clicks To Any pc Thet The Web Server is Running own.
 
-## How to Install
-
-you can Download one of the releases
-on this page [Release]().
-
 # Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/ayhamDev/WebPad.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd WebPad
 ```
 
 Install dependencies
