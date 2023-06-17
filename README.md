@@ -1,6 +1,6 @@
 # Web Pad
 
-Web Pad is Web Based Mouse That Allows You To Send Mouse Movements and Clicks To Any pc Thet The Web Server is Running own.
+Web Pad is Web Based Mouse That Allows You To Send Mouse Movements and Clicks To Any pc Thet The Web Server is Running on.
 
 # Run Locally
 
